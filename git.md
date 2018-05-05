@@ -51,3 +51,7 @@ git merge branch.name
 ## Создание ветки develop на сервере и загрузка файлов
 
 git push --set-upstream origin develop
+
+## Удаление ветки
+
+git branch -d branch.name
