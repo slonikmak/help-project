@@ -18,7 +18,7 @@ git commit -m "commit name"
 
 ## Коммит незафиксированных изменений
 
-git commit -a "commit name"
+git commit -a
 
 ## Подключение к удалённому репозиторию
 
